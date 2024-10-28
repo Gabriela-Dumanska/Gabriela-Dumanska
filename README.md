@@ -20,7 +20,7 @@
   - Python 🐍, Java ☕, C++ ⚙️
   
 - **Frameworks**: 
-  - Flask 🍞, Panda3D 🐼
+  - Flask 🍞, Panda3D 🐼, Qt 🖥️
 
 - **Libraries**: 
   - Pandas 🐼, NumPy ➗, Matplotlib 📊, scikit-learn 📈
