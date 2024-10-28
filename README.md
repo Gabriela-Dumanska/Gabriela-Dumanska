@@ -14,7 +14,7 @@
 
 ---
 
-### Tools & Skills
+### Tools & Skills 🛠️
 
 - **Programming**: 
   - Python 🐍, Java ☕, C++ ⚙️
@@ -33,6 +33,11 @@
 
 - **Skills**: 
   - Clean Code 🧹, OOP Design 💻, Problem-Solving 🧩
+    
+---
+
+### My Most Recent Project ✨
+A multiplayer game 🎮 developed in collaboration with a friend, which uses the Wave Function Collapse algorithm to create maps, created in Python with Panda3D 🎮🗺️! [View Repository](https://github.com/kmichalikk/wfc)
 
 ---
 
