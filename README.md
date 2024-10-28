@@ -8,7 +8,7 @@
 ### 🌟 About Me
 
 - 💚 Animals are my weakness (especially tiny rodents 🐀🐹)
-- 🌱 Obsessed with growing and caring for plants!
+- 🌱 Enjoy caring for my plants and watching them thrive!
 - 🖌️ Constantly learning & experimenting with art
 - 🎮 Never say no to a good simulation game!
 
