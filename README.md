@@ -26,7 +26,7 @@
   - Pandas 🐼, NumPy ➗, Matplotlib 📊, scikit-learn 📈
 
 - **Java**: 
-  - Spring 🌱, Hibernate 🐢, Gradle 📦
+  - Spring 🌱, Hibernate 🐢, RxJava 🧬, JavaFx 🎨
 
 - **SQL/PLSQL**: 
   - Oracle, MySQL 💾
