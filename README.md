@@ -5,15 +5,6 @@
 
 ---
 
-### 🌟 About Me
-
-- 💚 Animals are my weakness (especially tiny rodents 🐀🐹)
-- 🌱 Enjoy caring for my plants and watching them thrive!
-- 🖌️ Constantly learning & experimenting with art
-- 🎮 Never say no to a good simulation game!
-
----
-
 ### Tools & Skills 🛠️
 
 - **Programming**: 
