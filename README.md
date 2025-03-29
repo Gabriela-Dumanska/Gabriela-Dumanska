@@ -6,30 +6,18 @@
 ---
 
 ### Tools & Skills 🛠️
-
-- **Programming**: 
-  - Python 🐍, Java ☕, C++ ⚙️
-  
-- **Frameworks**: 
-  - Flask 🍞, Panda3D 🐼, Qt 🖥️
-
-- **Libraries**: 
-  - Pandas 🐼, NumPy ➗, Matplotlib 📊, scikit-learn 📈
-
-- **Java**: 
-  - Spring 🌱, Hibernate 🐢, RxJava 🧬, JavaFx 🎨
-
-- **SQL/PLSQL**: 
-  - Oracle, MySQL 💾
-
-- **Skills**: 
-  - Clean Code 🧹, OOP Design 💻, Problem-Solving 🧩
+- **Programming**: Python, Java, C++
+- **Frameworks**: Spring Boot, Flask, Qt, JavaFX, Panda3D  
+- **Machine Learning**: scikit-learn, TensorFlow, PyTorch  
+- **Databases**: PostgreSQL, Oracle, MySQL, MongoDB  
+- **Front-End**: React, PyQt, JavaFX, SFML  
     
 ---
 
 ### My Most Recent Project ✨
-A multiplayer game 🎮 developed in collaboration with a friend, which uses the Wave Function Collapse algorithm to create maps 🗺️, created in Python with Panda3D! [View Repository](https://github.com/kmichalikk/wfc)
-
+- **🫀 Interactive Cardiac Simulator** (Python & C++): Ongoing engineering project designed to support med students in learning the cardiac conduction system.
+- **🌱 Arduino Plant Monitor**: Smart system adjusting lighting & watering based on sensor data.
+- **🏆 Turniejomat**: A SCRUM-driven web app for organizing sports tournaments in a 6-person team.
 ---
 
-🌐 **Currently growing** my skills in **software design and engineering**  
+🌐 Currently diving deeper into **AI-powered tools**, **backend architecture**, and **modern software design patterns**.
