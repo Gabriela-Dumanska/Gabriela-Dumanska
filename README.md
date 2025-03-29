@@ -14,7 +14,7 @@
     
 ---
 
-### My Most Recent Project ✨
+### My Most Recent Projects ✨
 - **🫀 Interactive Cardiac Simulator** (Python & C++): Ongoing engineering project designed to support med students in learning the cardiac conduction system.
 - **🌱 Arduino Plant Monitor**: Smart system adjusting lighting & watering based on sensor data.
 - **🏆 Turniejomat**: A SCRUM-driven web app for organizing sports tournaments in a 6-person team.
