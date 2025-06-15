@@ -1,7 +1,7 @@
 ## 👋 Hi!
 
 🎓 22 yo | 📚 CS Student @ AGH - 3rd Year  
-👩‍💻 Into: **OOP**, mostly in **Python 🐍** & **Java ☕**
+👩‍💻 Into: **ML** in **Python 🐍** & **OOP** mostly in **Java ☕**
 
 ---
 
